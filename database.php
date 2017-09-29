@@ -1,5 +1,5 @@
 <?php
-
+    // dm k thay j that ha
     private $host       ="";
     private $username   ="";
     private $password   ="";
